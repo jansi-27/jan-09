@@ -1,0 +1,115 @@
+
+1.Sum and Difference:
+Question: Write a Python program to take two numbers as input and output their sum and difference.
+Example Input: 10, 5
+
+Sum: 15  
+Difference: 5
+
+2.Product and Division:
+Question: Write a program that accepts two float numbers and prints their product and division result.
+Example Input: 8.5, 2.0
+Product: 17.0  
+Division: 4.25
+
+3.Modulus and Power:
+Question: Take two integers as input and calculate the modulus and power of the first number raised to the second.
+Example Input: 5, 3
+
+Modulus: 2  
+Power: 125
+
+4.Relational Operators:
+Question: Write a program that checks if a given number is greater than 50 and less than 100.
+Example Input: 75
+True
+
+5.Logical Operators:
+Question: Write a Python program that accepts three numbers and checks if all three numbers are positive using logical operators.
+Example Input: 10, 20, 30
+True
+
+
+
+6.Swap Numbers Without a Temporary Variable:
+Question: Write a program to swap two numbers without using a temporary variable, utilizing arithmetic operators.
+Example Input: a = 5, b = 10
+a = 10  
+b = 5
+
+7.Even or Odd Using Arithmetic Operators:
+Question: Write a program to check if a number is even or odd using arithmetic operators.
+Example Input: n = 4
+Even
+
+8.Total Price with Discount:
+Question: Write a program that calculates the total price of an item after applying a discount using arithmetic operators.
+Example Input: Price: 1000, Discount: 20%
+Discounted Price: 800
+
+9.Compound Assignment Operators:
+Question: Write a program that accepts an integer and performs a series of operations using compound assignment operators: add 10, subtract 5, multiply by 2, and divide by 3.
+Example Input: x = 15
+Result: 13.0
+
+10.Check Range of a Number:
+Question: Write a program to check if a number lies within a specified range (e.g., 1 to 100) using relational operators.
+Example Input: Number: 42
+True
+
+15/01/2025
+1.Write a program to accept a string from the user and print its reverse.
+Example Input: "hello"
+Expected Output: "olleh"
+
+
+2.Write a program to check if a given string is a palindrome.
+Example Input: "madam"
+Expected Output: "Palindrome"
+
+3.Write a program to count the number of vowels and consonants in a given string.
+Example Input: "education"
+Expected Output: Vowels: 5, Consonants: 4
+
+
+4.Write a program to accept a string from the user and display its length without using the len() function.
+Example Input: "Python"
+Expected Output: 6
+
+
+5.Write a program to remove all spaces from a user-provided string.
+Example Input: "Hello World"
+Expected Output: "HelloWorld"
+
+6.Write a program to check if one string is a substring of another.
+Example Input:
+.String: "programming"
+Substring: "gram"
+Expected Output: "Yes, it's a substring"
+
+
+
+7.Write a program to find how many times a specific character appears in a string.
+Example Input:
+String: "banana"
+Character: "a"
+Expected Output: "3"
+
+
+
+8.Write a program to convert all lowercase letters in a string to uppercase and vice versa.
+Example Input: "Python123"
+Expected Output: "pYTHON123"
+
+
+9.Write a program to count the number of words in a given sentence.
+Example Input: "I love programming"
+Expected Output: 3
+
+
+10.Write a program to replace a specific word in a string with another word.
+Example Input:
+String: "I love Python"
+Word to replace: "Python"
+Replacement: "coding"
+Expected Output: "I love coding"
